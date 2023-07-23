@@ -1,7 +1,5 @@
 # Recipe-Recommendation-System
 
-It's a system that takes recommends recipes based on your stock in the fridge and your preferences.
-
 ## Working:
 1. There exists a normal search bar which allows you to search for recipes based on the ingredients or the recipes as such.
 2. If you require personal recommendations, you switch over to Recommendation section where you'll find a button called 'Display Current Stock'.
